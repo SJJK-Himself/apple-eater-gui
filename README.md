@@ -1,2 +1,3 @@
 # Apple-eater GUI
- A small toy where you feed apples to a fake AI
+ A small toy program with a simple GUI.
+ You feed apples to an "AI" to make it happy.
